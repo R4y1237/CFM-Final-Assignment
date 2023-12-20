@@ -1,4 +1,8 @@
-# Stock Portfolio 
+# Stock Advisory Bot
 
-# Description
-Given a list of stocks, the objective of this program is to create the safest portfolio.
+Authors: Jeffrey Zhao, Ray Wang, Bethany Liu
+
+Libraries used: Pandas, Numpy, Mathplotlib, yfinance
+
+Goal:
+This program is used to generate the least volatile portfolio given a list of stocks, with the ultimate goal of 0% return
